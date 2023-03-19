@@ -1,8 +1,6 @@
-# Read Me Template
+# Image Search Application
 
-![Project Image](project-image-url)
-
-> This is a ReadMe template to help save you time and effort.
+<img src="https://github.com/KshitijTheCreator/ImageSearchApp/blob/main/preview/screenshot-1679254925989.png" width="280" height="500">    <img src="https://github.com/KshitijTheCreator/ImageSearchApp/blob/main/preview/screenshot-1679255982417.png" width="280" height="500">    <img src="https://github.com/KshitijTheCreator/ImageSearchApp/blob/main/preview/screenshot-1679256058831.png" height="500">
 
 ---
 
@@ -10,10 +8,8 @@
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
 - [License](#license)
-- [Author Info](#author-info)
+
 
 ---
 
